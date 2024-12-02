@@ -1,0 +1,26 @@
+1. Desenvolvimento Iterativo
+Iterações Curta: O desenvolvimento foi realizado em iterações curtas, permitindo a entrega de funcionalidades incrementais. Cada iteração focou em uma funcionalidade específica, como adicionar produtos, consultar estoque e vender produtos.
+Feedback Rápido: Após cada iteração, o feedback foi coletado para identificar melhorias e ajustes necessários.
+2. Programação em Par
+Colaboração: Sempre que possível, as funcionalidades foram desenvolvidas em pares. Isso promoveu a troca de ideias, melhorou a qualidade do código e facilitou a identificação de problemas.
+Revisão de Código: As revisões de código foram realizadas para garantir que as melhores práticas fossem seguidas e que o código fosse claro e eficiente.
+3. Testes Frequentes
+Testes Unitários: Testes foram escritos para cada funcionalidade implementada, garantindo que o código funcionasse como esperado antes de seguir para a próxima iteração.
+Testes de Integração: Após a conclusão de várias funcionalidades, testes de integração foram realizados para verificar se todas as partes do sistema funcionavam bem juntas.
+4. Simplicidade e Design Evolutivo
+Código Simples: O código foi mantido simples e direto, evitando complexidade desnecessária. A estrutura do programa foi organizada em funções claras, facilitando a manutenção.
+Refatoração: O código foi refatorado continuamente à medida que novas funcionalidades eram adicionadas, garantindo que a base de código permanecesse limpa e eficiente.
+Uso do GitHub
+O GitHub foi utilizado como a principal ferramenta de versionamento e colaboração no projeto. Aqui estão algumas das práticas implementadas:
+
+1. Criação do Repositório
+Um repositório chamado estoque-simples foi criado no GitHub para armazenar todo o código fonte e documentação do projeto.
+2. Commits Frequentes
+Commits Pequenos: O código foi versionado com commits pequenos e frequentes, cada um com mensagens descritivas que explicavam as alterações realizadas.
+Histórico Claro: Essa abordagem permitiu um histórico claro das mudanças, facilitando a identificação de quando e por que alterações específicas foram feitas.
+3. Branches e Pull Requests
+Branches para Funcionalidades: Cada nova funcionalidade foi desenvolvida em uma branch separada, permitindo que o trabalho em diferentes partes do código ocorresse simultaneamente sem conflitos.
+Pull Requests: Após a conclusão de uma funcionalidade, um pull request foi criado para revisão. Isso permitiu que outros membros da equipe revisassem o código antes de integrá-lo à branch principal (main).
+4. Documentação
+README.md: Um arquivo README.md foi adicionado ao repositório, contendo instruções sobre como compilar e executar o programa, além de informações sobre a estrutura do projeto.
+Issues e Projetos: O GitHub também foi utilizado para rastrear problemas e gerenciar tarefas por meio de issues e projetos, garantindo que todos os membros da equipe estivessem alinhados quanto ao progresso e prioridades.
